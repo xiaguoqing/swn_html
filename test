@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T09:23:57.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KZch7xVRuDtymbEoDOyk" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T09:26:53.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Khbs_zNlAVLrDT2SS9Op" version="14.2.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1986" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1939" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XS6vKuZmb4h00_xXUAxg-112" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="480" height="640" as="geometry" />
+          <mxGeometry x="10" y="10" width="800" height="640" as="geometry" />
         </mxCell>
         <mxCell id="XS6vKuZmb4h00_xXUAxg-113" value="党员/群众" style="swimlane;html=1;startSize=20;" vertex="1" parent="XS6vKuZmb4h00_xXUAxg-112">
-          <mxGeometry y="20" width="120" height="620" as="geometry" />
+          <mxGeometry y="20" width="200" height="620" as="geometry" />
         </mxCell>
         <mxCell id="XS6vKuZmb4h00_xXUAxg-114" value="党支部/党组织" style="swimlane;html=1;startSize=20;" vertex="1" parent="XS6vKuZmb4h00_xXUAxg-112">
-          <mxGeometry x="120" y="20" width="120" height="620" as="geometry" />
+          <mxGeometry x="200" y="20" width="200" height="620" as="geometry" />
         </mxCell>
         <mxCell id="XS6vKuZmb4h00_xXUAxg-115" value="上级党组织" style="swimlane;html=1;startSize=20;" vertex="1" parent="XS6vKuZmb4h00_xXUAxg-112">
-          <mxGeometry x="240" y="20" width="120" height="620" as="geometry" />
+          <mxGeometry x="400" y="20" width="200" height="620" as="geometry" />
         </mxCell>
         <mxCell id="XS6vKuZmb4h00_xXUAxg-116" value="最高级党组织" style="swimlane;html=1;startSize=20;" vertex="1" parent="XS6vKuZmb4h00_xXUAxg-112">
-          <mxGeometry x="360" y="20" width="120" height="620" as="geometry" />
+          <mxGeometry x="600" y="20" width="200" height="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
