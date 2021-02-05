@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T07:13:49.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="zvpobMAwSGsdyDoZ6S0o" version="14.2.5" type="github">
-  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1352" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-02-05T07:17:57.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="QXmNf60tzlC4G8MXg83I" version="14.2.5" type="github">
+  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="系统内党员调整">
+    <mxGraphModel dx="1352" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
         <mxCell id="XHP7CSFlEneb-SU_DZhy-63" value="来源党支部" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-3">
           <mxGeometry x="40" width="203" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-65" value="发起党员调动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-63">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-65" value="发起党员调动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-63">
           <mxGeometry x="41.5" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XHP7CSFlEneb-SU_DZhy-5" value="来源党支部上级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-3">
           <mxGeometry x="243" width="202" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-66" value="发起党员调动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-5">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-66" value="发起党员调动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-5">
           <mxGeometry x="41" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XHP7CSFlEneb-SU_DZhy-64" value="最高级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-3">
@@ -28,16 +28,16 @@
         <mxCell id="XHP7CSFlEneb-SU_DZhy-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XHP7CSFlEneb-SU_DZhy-64" source="XHP7CSFlEneb-SU_DZhy-67" target="XHP7CSFlEneb-SU_DZhy-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-67" value="发起党员调动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-64">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-67" value="发起党员调动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-64">
           <mxGeometry x="45" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-75" value="是否直接调动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-64">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-75" value="是否直接调动" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-64">
           <mxGeometry x="45" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHP7CSFlEneb-SU_DZhy-6" value="目标党支部" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-3">
           <mxGeometry x="648" width="202" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-68" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-6">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-68" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-6">
           <mxGeometry x="41" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XHP7CSFlEneb-SU_DZhy-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XHP7CSFlEneb-SU_DZhy-6" source="XHP7CSFlEneb-SU_DZhy-69" target="XHP7CSFlEneb-SU_DZhy-70">
@@ -61,7 +61,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-69" value="是否接受调动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-6">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-69" value="是否接受调动" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XHP7CSFlEneb-SU_DZhy-6">
           <mxGeometry x="41" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHP7CSFlEneb-SU_DZhy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHP7CSFlEneb-SU_DZhy-6" source="XHP7CSFlEneb-SU_DZhy-70" target="XHP7CSFlEneb-SU_DZhy-68">
@@ -102,7 +102,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHP7CSFlEneb-SU_DZhy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XHP7CSFlEneb-SU_DZhy-3" source="XHP7CSFlEneb-SU_DZhy-75" target="XHP7CSFlEneb-SU_DZhy-70">
+        <mxCell id="XHP7CSFlEneb-SU_DZhy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF3333;" edge="1" parent="XHP7CSFlEneb-SU_DZhy-3" source="XHP7CSFlEneb-SU_DZhy-75" target="XHP7CSFlEneb-SU_DZhy-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHP7CSFlEneb-SU_DZhy-82" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XHP7CSFlEneb-SU_DZhy-81">
