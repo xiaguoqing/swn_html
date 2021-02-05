@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T09:10:55.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="n49NiorbvsgqS9IFRNlN" version="14.2.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-02-05T09:11:04.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="LRnNM7U4aGILpZkE5Ll0" version="14.2.5" type="github" pages="9">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="系统内党员调整">
     <mxGraphModel dx="1352" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -706,7 +706,7 @@
         <mxCell id="E4p-QFWzsNtiMZgGSHa8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="E4p-QFWzsNtiMZgGSHa8-3" source="E4p-QFWzsNtiMZgGSHa8-11" target="E4p-QFWzsNtiMZgGSHa8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4p-QFWzsNtiMZgGSHa8-14" value="退回，直接退回上报党组织" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="E4p-QFWzsNtiMZgGSHa8-13">
+        <mxCell id="E4p-QFWzsNtiMZgGSHa8-14" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="E4p-QFWzsNtiMZgGSHa8-13">
           <mxGeometry x="-0.2174" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
