@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T09:11:04.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="LRnNM7U4aGILpZkE5Ll0" version="14.2.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-02-05T09:15:29.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="oPM6KBjHbTuf8spgYbfi" version="14.2.5" type="github" pages="9">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="系统内党员调整">
     <mxGraphModel dx="1352" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -607,7 +607,7 @@
         <mxCell id="cHfyla6PZBl5YHfFzG3U-5" value="上报信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="cHfyla6PZBl5YHfFzG3U-4">
           <mxGeometry x="135" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cHfyla6PZBl5YHfFzG3U-6" value="上级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="cHfyla6PZBl5YHfFzG3U-3">
+        <mxCell id="cHfyla6PZBl5YHfFzG3U-6" value="直属上级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="cHfyla6PZBl5YHfFzG3U-3">
           <mxGeometry x="430" width="390" height="380" as="geometry" />
         </mxCell>
         <mxCell id="cHfyla6PZBl5YHfFzG3U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="cHfyla6PZBl5YHfFzG3U-6" source="cHfyla6PZBl5YHfFzG3U-8" target="cHfyla6PZBl5YHfFzG3U-9">
@@ -680,7 +680,7 @@
         <mxCell id="E4p-QFWzsNtiMZgGSHa8-5" value="上报信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="E4p-QFWzsNtiMZgGSHa8-4">
           <mxGeometry x="135" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4p-QFWzsNtiMZgGSHa8-6" value="上级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="E4p-QFWzsNtiMZgGSHa8-3">
+        <mxCell id="E4p-QFWzsNtiMZgGSHa8-6" value="直属上级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="E4p-QFWzsNtiMZgGSHa8-3">
           <mxGeometry x="430" width="390" height="380" as="geometry" />
         </mxCell>
         <mxCell id="E4p-QFWzsNtiMZgGSHa8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="E4p-QFWzsNtiMZgGSHa8-6" source="E4p-QFWzsNtiMZgGSHa8-8" target="E4p-QFWzsNtiMZgGSHa8-11">
