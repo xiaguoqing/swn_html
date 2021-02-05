@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T08:41:03.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="wKbn1NWZNgC1KXfJ51xs" version="14.2.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-05T09:02:16.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="vfB_xrsObRhF4iZ6Rhz1" version="14.2.5" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="系统内党员调整">
     <mxGraphModel dx="1352" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -508,6 +508,83 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mAla_tw-S8xQTKhCs3kh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="mAla_tw-S8xQTKhCs3kh-3" source="mAla_tw-S8xQTKhCs3kh-5" target="mAla_tw-S8xQTKhCs3kh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="纪检工作台账" id="lTf7OWMSaNrOfk6LtMVU">
+    <mxGraphModel dx="1352" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-0" />
+        <mxCell id="SwPh2z-CBjui9keRZuBd-1" parent="SwPh2z-CBjui9keRZuBd-0" />
+        <mxCell id="SwPh2z-CBjui9keRZuBd-2" value="纪检工作台账" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;fontColor=#000000;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-1">
+          <mxGeometry width="820" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-3" value="" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="SwPh2z-CBjui9keRZuBd-2">
+          <mxGeometry y="40" width="820" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-4" value="上报党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-3">
+          <mxGeometry x="40" width="260" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-5" value="上报信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-4">
+          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-6" value="上级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-3">
+          <mxGeometry x="300" width="260" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-6" source="SwPh2z-CBjui9keRZuBd-8" target="SwPh2z-CBjui9keRZuBd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-8" value="逐级审核" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-6">
+          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-9" value="审核" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-6">
+          <mxGeometry x="70" y="170" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-10" value="最高级党组织" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-3">
+          <mxGeometry x="560" width="260" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-10" source="SwPh2z-CBjui9keRZuBd-12" target="SwPh2z-CBjui9keRZuBd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-12" value="最终审核" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-10">
+          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-13" value="通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-10" source="SwPh2z-CBjui9keRZuBd-14" target="SwPh2z-CBjui9keRZuBd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-14" value="审核" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-10">
+          <mxGeometry x="70" y="270" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SwPh2z-CBjui9keRZuBd-10">
+          <mxGeometry x="70" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-3" source="SwPh2z-CBjui9keRZuBd-9" target="SwPh2z-CBjui9keRZuBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-17" value="退回，直接退回上报党组织" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="SwPh2z-CBjui9keRZuBd-16">
+          <mxGeometry x="-0.2174" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-3" source="SwPh2z-CBjui9keRZuBd-14" target="SwPh2z-CBjui9keRZuBd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-19" value="退回，直接退回上报党组织" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="SwPh2z-CBjui9keRZuBd-18">
+          <mxGeometry x="-0.6541" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-20" value="通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-3" source="SwPh2z-CBjui9keRZuBd-9" target="SwPh2z-CBjui9keRZuBd-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="206" />
+              <mxPoint x="580" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwPh2z-CBjui9keRZuBd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="SwPh2z-CBjui9keRZuBd-3" source="SwPh2z-CBjui9keRZuBd-5" target="SwPh2z-CBjui9keRZuBd-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
